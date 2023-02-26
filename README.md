@@ -19,9 +19,13 @@
 
 ## 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=ruturaj1009&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ruturaj1009&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ruturaj1009&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=ruturaj1009&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="RuturajSahu" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ruturaj1009&theme=tokyonight&hide_border=false" alt="RuturajSahu" /></p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ruturaj1009&icon=0&color=2)](https://visitcount.itsvg.in)
+
+<p margin-top="100" align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruturaj1009&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="RuturajSahu" /></p>
+
+
+---
+<p><img align="center" src="https://visitcount.itsvg.in/api?id=ruturaj1009&icon=0&color=1" alt="profile_view" /> </p>
