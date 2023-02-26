@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ruturaj Sahu</h1>
-<a href="https://i-am-satya.netlify.app/"/>
+<a href="https://rutu-raj-portfolio.netlify.app/"/>
 <img align="right" width="400" src="https://media4.giphy.com/media/NHvv0Bo3oGq1eTBDd1/giphy.gif?cid=ecf05e476uc24z5xhnlamk2ze7ueinva4a7bnm23e5t84zb6&rid=giphy.gif&ct=g" alt="Coding..." />
 </a>
 
@@ -21,10 +21,11 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=ruturaj1009&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="RuturajSahu" /></p>
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ruturaj1009&theme=tokyonight&hide_border=false" alt="RuturajSahu" /></p>
-<br/>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruturaj1009&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide_progress=true" alt="RuturajSahu" /></p>
+<p align="center" margin="10"><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruturaj1009&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide_progress=true" alt="RuturajSahu" /></p>
+
+## 📈 Activity Graph
+<p><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=ruturaj1009&bg_color=1a1b27&color=37bcad&line=6fa4fc&point=37bcad&area=true&hide_border=true" alt="activitygraph"/><p/>
 
 
 
----
-<p><img align="center" src="https://visitcount.itsvg.in/api?id=ruturaj1009&icon=0&color=1" alt="profile_view" /> </p>
+<p align="center"><img align="center" src="https://visitcount.itsvg.in/api?id=ruturaj1009&icon=0&color=1" alt="profile_view" /> </p>
