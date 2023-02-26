@@ -1,16 +1,14 @@
-<h1 align="center">Hi 👋, I'm Satya Prasanna Lenka</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Ruturaj Sahu</h1>
 <a href="https://i-am-satya.netlify.app/"/>
-<img align="right" width="400" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Coding..." />
+<img align="right" width="400" src="https://media4.giphy.com/media/NHvv0Bo3oGq1eTBDd1/giphy.gif?cid=ecf05e476uc24z5xhnlamk2ze7ueinva4a7bnm23e5t84zb6&rid=giphy.gif&ct=g" alt="Coding..." />
 </a>
 
-- 👨‍💻 All of my projects are available at [https://i-am-satya.netlify.app/](https://i-am-satya.netlify.app/)
 
-- 📫 How to reach me **satyale39@gmail.com**
-
-
-# 💫 About Me:
-🔭 I’m currently working on Web Dev Projects.<br>👯 I’m looking to collaborate on FullStack Projects.<br>🌱 I’m currently learning ReactJS and NodeJS.<br>💬 Reach me at ruturajsahu2002@gmail.com<br>
+## 💫 About Me:
+ 🔭 I’m currently working on Web Dev Projects.<br>
+ 👯 I’m looking to collaborate on FullStack Projects.<br> 
+ 👨‍💻 I’m currently learning ReactJS and NodeJS.<br>
+ 📫 Reach out to me at ruturajsahu2002@gmail.com<br>
 
 
 ## 🌐 Socials:
@@ -24,6 +22,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ruturaj1009&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ruturaj1009&icon=0&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![](https://visitcount.itsvg.in/api?id=ruturaj1009&icon=0&color=2)](https://visitcount.itsvg.in)
