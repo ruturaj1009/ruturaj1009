@@ -19,8 +19,8 @@
 
 ## 📊 GitHub Stats:
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ruturaj1009&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="RuturajSahu" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ruturaj1009&theme=tokyonight&hide_border=false" alt="RuturajSahu" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ruturaj1009&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="RuturajSahu" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ruturaj1009&theme=tokyonight&hide_border=false" alt="RuturajSahu" /></p>
 <p align="center" margin="10"><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruturaj1009&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide_progress=true" alt="RuturajSahu" /></p>
 
 
