@@ -25,7 +25,7 @@
 
 
 ## 📈 Activity Graph
-<p><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=ruturaj1009&bg_color=1a1b27&color=37bcad&line=6fa4fc&point=37bcad&area=true&hide_border=true" alt="activitygraph"/><p/>
+<p><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ruturaj1009&bg_color=1a1b27&color=37bcad&line=6fa4fc&point=37bcad&area=true&hide_border=true" alt="activitygraph"/><p/>
 
 
 
