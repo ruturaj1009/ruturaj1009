@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ruturaj Sahu</h1>
-<a href="https://irutu.netlify.app/"/>
+<a href="https://irutu.netlify.app/" target="_blank"/>
 <img align="right" width="400" src="https://media4.giphy.com/media/NHvv0Bo3oGq1eTBDd1/giphy.gif?cid=ecf05e476uc24z5xhnlamk2ze7ueinva4a7bnm23e5t84zb6&rid=giphy.gif&ct=g" alt="Coding..." />
 </a>
 
