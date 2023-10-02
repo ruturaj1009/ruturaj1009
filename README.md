@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ruturaj Sahu</h1>
+<p align="center" display="block">
+  <img src="https://readme-typing-svg.herokuapp.com/?size=30&duration=5001&vCenter=true&center=true&font=Fira+Code&pause=1000&color=FF6A00&width=700&lines=This+is+Ruturaj+Sahu;+Frontend+Web+Developer;Currently+Creating+Projects+Using+React;Connect+with+me+at;ruturajsahu2002@gmail.com;" alt="Typing SVG" />
+</p>
 <a href="https://irutu.netlify.app/" target="_blank"/>
 <img align="right" width="400" src="https://media4.giphy.com/media/NHvv0Bo3oGq1eTBDd1/giphy.gif?cid=ecf05e476uc24z5xhnlamk2ze7ueinva4a7bnm23e5t84zb6&rid=giphy.gif&ct=g" alt="Coding..." />
 </a>
@@ -29,4 +32,4 @@
 
 
 
-<p align="center"><img align="center" src="https://visitcount.itsvg.in/api?id=ruturaj1009&icon=0&color=1" alt="profile_view" /> </p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=ruturaj1009&label=Profile%20views&color=0f56b3&?style=for-the-badge" alt="profile view" /> </p>
